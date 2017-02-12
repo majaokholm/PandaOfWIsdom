@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Panda of Wisdom</string>
+    <string name="getAnswer">Get the Truth</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Click for the Panda Truth</string>
+    <string name="dummy_content">Ask the Panda of Wisdome your question</string>
+</resources>
